@@ -70,7 +70,7 @@ navigator-updater==0.2.1
 nbconvert==5.6.1
 nbformat==5.0.6
 notebook==6.4.1
-numpy==1.18.1
+numpy==1.22.0
 olefile==0.46
 opt-einsum==3.1.0
 pandocfilters==1.4.2
